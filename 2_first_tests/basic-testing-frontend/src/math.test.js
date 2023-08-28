@@ -82,9 +82,3 @@ test('should throw an error if provided with multiple arguments instead of an ar
 	// Assert
 	expect(resultFn).toThrow(/is not iterable/);
 });
-
-test('should', () => {
-	// Arrange   // Parametry, które użytkownik 'niby' wprowadza
-	// Act
-	// Assert
-});
